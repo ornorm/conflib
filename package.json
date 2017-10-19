@@ -1,0 +1,28 @@
+{
+  "name": "libconf",
+  "version": "1.0.0",
+  "description": "Library that hold some usefull constants for browser applications configuration",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/libconf.git"
+  },
+  "keywords": [
+    "Configuration"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/libconf/issues"
+  },
+  "homepage": "https://github.com/ornorm/libconf#readme",
+  "dependencies": {
+    "libprops": "^1.0.0"
+  }
+}
